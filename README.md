@@ -1,4 +1,4 @@
-# We are on the release-Branch now ! ! !
+# We are on the release-Branch v1.0 now ! ! !
 
 This commit should demonstrate a commit regarding stabilization etc.
 
